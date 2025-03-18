@@ -1,0 +1,16 @@
+com/startupsync/com/messageservice/entity/UserChatRoom.class
+com/startupsync/com/messageservice/config/WebSocketConfig.class
+com/startupsync/com/messageservice/controller/MessageController.class
+com/startupsync/com/messageservice/MessageServiceApplication.class
+com/startupsync/com/messageservice/repository/MessageRepository.class
+com/startupsync/com/messageservice/controller/WebSocketController.class
+com/startupsync/com/messageservice/repository/ChatRoomRepository.class
+com/startupsync/com/messageservice/entity/ChatRoom.class
+com/startupsync/com/messageservice/repository/UserRepository.class
+com/startupsync/com/messageservice/entity/UserChatRoomId.class
+com/startupsync/com/messageservice/service/ChatRoomService.class
+com/startupsync/com/messageservice/entity/User$UserBuilder.class
+com/startupsync/com/messageservice/repository/UserChatRoomRepository.class
+com/startupsync/com/messageservice/entity/Message.class
+com/startupsync/com/messageservice/service/MessageService.class
+com/startupsync/com/messageservice/entity/User.class
