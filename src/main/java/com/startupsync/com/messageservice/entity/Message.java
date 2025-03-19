@@ -13,16 +13,9 @@ public class Message {
     private Long id;
 
     private String content;
-
-    @ManyToOne
-    @JoinColumn(name = "sender_id")
-    private User sender;
-
-    @ManyToOne
-    @JoinColumn(name = "chat_room_id")
-    private ChatRoom chatRoom;
+    private Long senderId; // Sender's user ID
+    private Long chatRoomId; // Associated chat room ID
 
     @Temporal(TemporalType.TIMESTAMP)
     private Date timestamp;
 }
-

@@ -1,12 +1,14 @@
 /home/ganeshmanchi/ZoinMe/message-service/src/main/java/com/startupsync/com/messageservice/entity/UserChatRoom.java
 /home/ganeshmanchi/ZoinMe/message-service/src/main/java/com/startupsync/com/messageservice/repository/MessageRepository.java
 /home/ganeshmanchi/ZoinMe/message-service/src/main/java/com/startupsync/com/messageservice/entity/UserChatRoomId.java
+/home/ganeshmanchi/ZoinMe/message-service/src/main/java/com/startupsync/com/messageservice/config/CorsConfig.java
 /home/ganeshmanchi/ZoinMe/message-service/src/main/java/com/startupsync/com/messageservice/entity/Message.java
 /home/ganeshmanchi/ZoinMe/message-service/src/main/java/com/startupsync/com/messageservice/config/WebSocketConfig.java
 /home/ganeshmanchi/ZoinMe/message-service/src/main/java/com/startupsync/com/messageservice/MessageServiceApplication.java
 /home/ganeshmanchi/ZoinMe/message-service/src/main/java/com/startupsync/com/messageservice/entity/User.java
 /home/ganeshmanchi/ZoinMe/message-service/src/main/java/com/startupsync/com/messageservice/repository/ChatRoomRepository.java
 /home/ganeshmanchi/ZoinMe/message-service/src/main/java/com/startupsync/com/messageservice/entity/ChatRoom.java
+/home/ganeshmanchi/ZoinMe/message-service/src/main/java/com/startupsync/com/messageservice/controller/ChatController.java
 /home/ganeshmanchi/ZoinMe/message-service/src/main/java/com/startupsync/com/messageservice/service/ChatRoomService.java
 /home/ganeshmanchi/ZoinMe/message-service/src/main/java/com/startupsync/com/messageservice/repository/UserChatRoomRepository.java
 /home/ganeshmanchi/ZoinMe/message-service/src/main/java/com/startupsync/com/messageservice/service/MessageService.java

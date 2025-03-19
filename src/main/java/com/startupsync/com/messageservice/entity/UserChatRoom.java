@@ -6,7 +6,7 @@ import lombok.Data;
 @Data
 @Entity
 @Table(name = "user_chat_room")
-@IdClass(UserChatRoomId.class) // Specify the composite key class
+@IdClass(UserChatRoomId.class)
 public class UserChatRoom {
     @Id
     @Column(name = "user_id")
@@ -15,5 +15,4 @@ public class UserChatRoom {
     @Id
     @Column(name = "chat_room_id")
     private int chatRoomId;
-
 }

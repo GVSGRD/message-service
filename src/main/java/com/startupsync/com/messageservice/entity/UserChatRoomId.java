@@ -7,16 +7,7 @@ public class UserChatRoomId implements Serializable {
     private int userId;
     private int chatRoomId;
 
-    // Default constructor
-    public UserChatRoomId() {}
-
-    // Parameterized constructor
-    public UserChatRoomId(int userId, int chatRoomId) {
-        this.userId = userId;
-        this.chatRoomId = chatRoomId;
-    }
-
-    // Getters and Setters
+    // Getters, setters, equals, and hashCode
     public int getUserId() {
         return userId;
     }
@@ -33,7 +24,6 @@ public class UserChatRoomId implements Serializable {
         this.chatRoomId = chatRoomId;
     }
 
-    // Override equals and hashCode
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
